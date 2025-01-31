@@ -1,0 +1,11 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+"this is a short document" 
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQQ+d93xHFISKXvEDEasYNSsNa2hSgUCZ5yvTgAKCRCsYNSsNa2h
+SmbaAQCxseXUUl2uAUPvOiJjuOAOJA9BFneH5fVbDyk/J+RG9AD/asdtshg76fYv
+lwgwS9EAxBIPiCRNleEsY7x0nN1gLQ8=
+=3F/h
+-----END PGP SIGNATURE-----
